@@ -1,6 +1,6 @@
 {
   "name": "dedupe-slash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To deduplicate multiple consecutive slashes in a path",
   "homepage": "https://github.com/shuaibird/dedupe-slash",
   "bugs": {

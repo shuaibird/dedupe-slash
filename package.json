@@ -1,0 +1,31 @@
+{
+  "name": "dedupe-slash",
+  "version": "1.0.0",
+  "description": "To deduplicate multiple consecutive slashes in a path",
+  "homepage": "https://github.com/shuaibird/dedupe-slash",
+  "bugs": {
+    "url": "https://github.com/shuaibird/dedupe-slash/issues",
+    "email": "shuaibird@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shuaibird/dedupe-slash"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deduplication",
+    "slash",
+    "dedupe",
+    "url",
+    "util"
+  ],
+  "author": {
+    "name": "shuaibird",
+    "email": "shuaibird@icloud.com",
+    "url": "https://github.com/shuaibird"
+  },
+  "license": "ISC"
+}

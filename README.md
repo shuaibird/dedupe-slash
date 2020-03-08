@@ -10,6 +10,6 @@ npm install dedupe-slash --save
 ```javascript
 const dedupeSlash = require('dedupe-slash');
 
-dedupeSlash('https://example.com//a////b')
+dedupeSlash('https://example.com//a////b');
 //=> https://example.com/a/b
 ```
